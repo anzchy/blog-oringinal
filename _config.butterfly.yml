@@ -148,7 +148,7 @@ copy:
 toc:
   post: true
   page: false
-  number: true
+  number: false #有修改
   expand: false
   style_simple: false # for post
   scroll_percent: true
